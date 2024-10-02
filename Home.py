@@ -12,3 +12,4 @@ from utilities.layout import page_config
 page_config()
 
 st.markdown("## LAWS90286 Template")
+
